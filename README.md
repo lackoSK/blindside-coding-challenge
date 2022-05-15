@@ -25,3 +25,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+This project is also deployed on Vercel. You can access the live version at [https://blindside-coding-challenge.vercel.app/](https://blindside-coding-challenge.vercel.app/)
